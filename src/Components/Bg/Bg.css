@@ -1,0 +1,23 @@
+.text1 h1 {
+    
+        font-size: 45px;
+        line-height: 43px;
+        vertical-align: top;
+        letter-spacing: 2.5%;
+        color: #ffffff;
+        text-align: left;
+        margin-top: 18.75rem;
+        margin-left: 17.25rem;
+}
+
+.text2 p{
+
+    font-size: 13px;
+    line-height: 22px;
+    text-align: left;
+    vertical-align: top;
+    letter-spacing: 1.8%;
+    color: #ffffff;
+    margin-left: 17.25rem;
+    margin-top: 1.30rem;
+}

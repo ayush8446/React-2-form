@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Roboto:wght@500;700&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Roboto";
+    background-color:rgb(121,174,254) ;
+}
